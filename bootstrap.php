@@ -38,8 +38,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 	die( "Oh, silly, there's nothing to see here." );
 }
 
-function plugin_launch(){
+include( __DIR__ .'/src/shortcode/shortcodes.php');
 
-}
+// function plugin_launch(){
+
+// }
 
 ?>
