@@ -5,7 +5,7 @@
  * @package         MakeCreative\CollapsibleContent
  * @author          makecreative
  * @license         GPL-2.0+
- * @link            https://MakeCreative.io
+ * @link            https://www.makecreative.ro
  *
  * @wordpress-plugin
  * Plugin Name:     Collapsible Content
@@ -13,7 +13,7 @@
  * Description:     Collapsible Content is a WordPress Plugin that shows and hides hidden content.  Practical examples include Q&As, FAQs, hints, marketing teasers, and more.  Click the icon to open and reveal the content. Click again to close and hide it.
  * Version:         1.0.0
  * Author:          makecreative
- * Author URI:      https://MakeCreative.io
+ * Author URI:      https://www.makecreative.ro
  * Text Domain:     collapsible_content
  * Requires WP:     4.7
  * Requires PHP:    5.5
